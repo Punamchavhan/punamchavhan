@@ -5,7 +5,7 @@ Hi there! I am Punam.👋
 - 🔭 I’m currently working on my Tech Stack.
 - 🌱 I’m currently learning DevOps.
 - 👯  I am a tech enthusiast & an open-source person. I am always open to collaborate on projects.
-- 📫 How to reach me: 
+- 📫 How to reach me: punamchavhan0509@gmail.com
 - ⚡ Fun fact: I am also a Yoga Instructor.
 <hr />
 
