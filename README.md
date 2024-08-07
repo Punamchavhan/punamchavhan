@@ -2,7 +2,7 @@ Hi there! I am Punam.👋
 
 
 
-- 🔭 I’m working at European Parliament as a software developer
+- 🔭 Ex-Schuman trainee at European Parliament as a software developer
 - 👯  I am a tech enthusiast & an open-source person. I am always open to collaborate on projects.
 - 📫 How to reach me: punamchavhan0509@gmail.com
 - ⚡ Fun fact: I am also a Yoga Instructor.
